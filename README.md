@@ -4,25 +4,25 @@ Este repositório contém uma página web desenvolvida como parte da avaliação
 
 ## 📄 Descrição do Projeto
 
-A página apresenta informações pessoais, incluindo:
+**A página apresenta informações pessoais, incluindo:**
 
-- **Nome completo**
-- **Foto de perfil**
-- **Breve biografia**
-- **Habilidades técnicas**
-- **Links para redes sociais**
+- Nome completo
+- Foto de perfil
+- Breve biografia
+- Habilidades técnicas
+- Links para redes sociais
 
-O projeto foi desenvolvido com foco em:
+**O projeto foi desenvolvido com foco em:**
 
-- **Estruturação semântica utilizando HTML5**
-- **Estilização com CSS3**
-- **Boas práticas de organização de código**
+- Estruturação semântica utilizando HTML5
+- Estilização com CSS3
+- Boas práticas de organização de código
 > **EM BREVE:** *Responsividade para diferentes tamanhos de tela*
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **HTML5**
-- **CSS3**
+- HTML5
+- CSS3
 - [CodeSandbox](https://codesandbox.io/) *(ambiente de desenvolvimento online)*
 
 ## 📁 Estrutura do Projeto
@@ -35,7 +35,7 @@ O projeto foi desenvolvido com foco em:
 
 ## 🚀 Como Visualizar o Projeto
 
-Você pode visualizar a página diretamente no navegador acessando o arquivo `index.html` ou através do CodeSandbox:
+**Você pode visualizar a página diretamente no navegador acessando o arquivo `index.html` ou através do CodeSandbox:**
 
 👉 [Visualizar no CodeSandbox](https://codesandbox.io/p/github/mickeiasdev/Mickeias_AT1_HTML+CSS)
 
@@ -45,7 +45,6 @@ Durante o desenvolvimento deste projeto, foram aplicados os seguintes conceitos:
 
 - Utilização de tags semânticas do HTML5 para melhorar a acessibilidade e a estrutura do conteúdo
 - Aplicação de seletores e propriedades do CSS3 para estilização e layout
-- Implementação de design responsivo para garantir uma boa experiência em dispositivos móveis
 - Organização e separação de responsabilidades entre HTML e CSS
 
 ## 📌 Observações
