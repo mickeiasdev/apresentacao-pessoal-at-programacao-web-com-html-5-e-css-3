@@ -28,9 +28,14 @@ Este repositório contém uma página web desenvolvida como parte da avaliação
 ## 📁 Estrutura do Projeto
 
 ```bash
+├── source
+│   └── img
+│   │   └── imagens.png (geral)
+│   ├── footer.css
+│   ├── main.css
+│   ├── header.css
+│   └── others.css
 ├── index.html
-├── style.css
-└── README.md
 ```
 
 ## 🚀 Como Visualizar o Projeto
